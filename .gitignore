@@ -1,0 +1,6 @@
+# scripts, transcripts and sources stay on this machine (the skill's rule)
+abooks/
+krishnamurti/
+__pycache__/
+*.pyc
+*.log
